@@ -222,6 +222,11 @@ plt.show()
 #链接：https://www.zhihu.com/question/26441147/answer/128055090
 #泊松分布也可以看做是有限的二项分布（当二项分布的p很低的时候）
 
+https://www.zhihu.com/question/26441147/answer/128055090 有例题
+    
+    
+    
+    
 #CDF及分布(双边坐标轴）
 array=np.random.poisson(6,size=100000)
 array.sort()
